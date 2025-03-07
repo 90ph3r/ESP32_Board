@@ -1,1 +1,2 @@
-# ESP32_Board
+# ESP32 Board
+# Altium Designer
